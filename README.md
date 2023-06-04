@@ -17,5 +17,3 @@ This neural network implementation includes the following features:
 - Binary Cross-Entropy loss function
 - Gradient Descent optimizer
 - Adam optimizer
-
-Additionally, the `Tumor-Project.ipynb` notebook demonstrates how to use PyTorch to create a neural network for tumor classification.
